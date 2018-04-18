@@ -11,5 +11,7 @@ function increaseRankBy(n) {
   for (let i=0; i <.rankedlist.length; i++) {
   let children = rankedlist[i].children
   
-  for (j=0; k= children.length; )
+  for (j=0; k= children.length; j<k; j++) {
+    
+  }
 }
